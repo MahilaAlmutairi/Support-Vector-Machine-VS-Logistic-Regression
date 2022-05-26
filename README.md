@@ -9,4 +9,4 @@ This notebook compares the SVM and Logistic Regression models based on the linea
 •	Seaborn .
 
 ### Used Dataset:
-Breast Cancer Wisconsin (Diagnostic)[Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+Breast Cancer Wisconsin (Diagnostic) [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
